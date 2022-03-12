@@ -1,5 +1,6 @@
-# chrome_extension
-Covid Tracker in UK
+# Chrome Extension to show the latest data on covid of UK
+  Covid Tracker in UK
+
 
 # Tools used
   HTML, CSS and JavaScript
